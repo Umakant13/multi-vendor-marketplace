@@ -59,9 +59,6 @@ An e-commerce platform where multiple vendors can list their products, manage or
 - MySQL database
 - API keys for Stripe and Razorpay
 
-
-## Setup
-
 ### Frontend Setup (React)
 
 1. **Open the frontend project in VS Code**.
