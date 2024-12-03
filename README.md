@@ -4,13 +4,6 @@ An e-commerce platform where multiple vendors can list their products, manage or
 
 ## Technology Stack
 
-### Backend:
-- Spring Boot
-- MySQL
-- Spring Security
-- JWT Authentication
-- Java Mail Sender
-
 ### Frontend:
 - React
 - TypeScript
@@ -21,6 +14,13 @@ An e-commerce platform where multiple vendors can list their products, manage or
 - Formik, Yup
 - React Router DOM
 - Axios
+
+### Backend:
+- Spring Boot
+- MySQL
+- Spring Security
+- JWT Authentication
+- Java Mail Sender
 
 ### Payment Gateways:
 - Razorpay (for Indian users)
@@ -89,7 +89,7 @@ An e-commerce platform where multiple vendors can list their products, manage or
    - Update Razorpay API & Secret keys in the `application.properties` file.
      
 4. **Email Configuration**:
-   - Provide your Gmail and App Password for email functionalities in the `application.properties` file.
+   - Provide your Gmail and App Password for email functionalities
      
 5. **Gemini API Key**:
    - Set your Gemini API key for handling payments in the project.
